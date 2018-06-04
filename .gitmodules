@@ -1,0 +1,3 @@
+[submodule "model/user"]
+	path = model/user
+	url = https://github.com/supperdsj/submodule_demo.git
